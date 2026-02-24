@@ -1,5 +1,6 @@
 ## Hi there 👋
-![h](https://github.com/user-attachments/assets/ae2d0f71-4880-4e92-a1ec-6a1423285fe1)
+
+<img width="600" height="252" alt="logo1" src="https://github.com/user-attachments/assets/00526bd0-ed22-4ae5-a1c1-f25a9b897343" />
 
 <!--
 **guitionofficial/guitionofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
