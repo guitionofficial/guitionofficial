@@ -1,4 +1,4 @@
-## Guition  
+## Guition Team  
 <img width="720" height="302" alt="logo3" src="https://github.com/user-attachments/assets/a21d72ee-57a4-45a0-81d2-8af5601a2d1b" />
 
 ## About Us
