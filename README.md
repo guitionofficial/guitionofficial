@@ -1,20 +1,21 @@
-## Hi there 👋
-
+## Guition  
 <img width="720" height="302" alt="logo3" src="https://github.com/user-attachments/assets/a21d72ee-57a4-45a0-81d2-8af5601a2d1b" />
 
+## About Us
 
-<!--
-**guitionofficial/guitionofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jingcai Intelligence is a fast-growing technology enterprise integrating R&D, production and sales. Since its establishment, we have been committed to becoming a leading supplier of human-computer interaction (HMI) display solutions and USART-HMI Display Modules, adhering to the concept of "technology-driven, customer-centric" to provide high-quality products and services for global customers.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...![Uploading h.jpg…]()
+## Website
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- official website:    [www.guition.com](https://www.guition.com)
+- e-commerce platform: [www.aliexpress.com/store/1102406878](https://www.aliexpress.com/store/1102406878)
+- TikTok:              [www.tiktok.com/@guition_dispaly](https://www.tiktok.com/@guition_dispaly)
+
+---
+
+## About Issues
+
+- If you have any questions, suggestions or comments, you can contact our technical support team via the following email address: [576215230@qq.com](576215230@qq.com)
+ 
